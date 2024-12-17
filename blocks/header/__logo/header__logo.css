@@ -1,0 +1,33 @@
+
+
+@media (min-width: 320px){
+    .header__logo{
+        width: 142px;
+        height: 42px;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 768px){
+    .header__logo{
+        width: 176px;
+        height: 52px;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 1024px){
+    .header__logo{
+        width: 176px;
+        height: 52px;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 1280px){
+    .header__logo{
+        width: 176px;
+        height: 52px;
+        margin-right: auto;
+    }
+}

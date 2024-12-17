@@ -1,0 +1,45 @@
+.intro__list {
+    list-style: none;
+    color: white;
+    font-family: Inter;
+}
+
+@media (min-width:320px){
+    .intro__list {
+        width: 288px;
+        height: 90px;
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 34px;
+        padding-left: 0;
+        margin-left: 16px;
+        margin-right: 16px;
+
+    }
+}
+
+@media (min-width: 768px){
+    .intro__list {
+        width: 720px;
+        height: 90px;
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 33px;
+        margin-left: 24px;
+    }
+}
+
+@media (min-width: 1024px){
+    .intro__list {
+        width: 690px;
+        height: 90px;
+        margin-top: 33px;
+        margin-left: 48px;
+    }
+}
+
+@media (min-width: 1280px){
+    .intro__list {
+        margin-left: 148px;
+    }
+}

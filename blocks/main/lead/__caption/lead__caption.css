@@ -1,0 +1,47 @@
+.lead__caption {
+    margin: 0;
+    font-family: Inter;
+    color: white;
+
+}
+
+@media (min-width: 320px){
+    .lead__caption {
+        margin-top: 8px;
+        width: 158px;
+        height: 14px;
+        font-size: 10px;
+        line-height: 14px;
+        font-weight: 400;
+        letter-spacing: 1.5px;
+        margin-left: 16px;
+        margin-right: 146px;
+    }
+}
+
+@media (min-width:768px){
+    .lead__caption {
+        margin-left: 24px;
+        margin-right: 586px;
+
+    }
+}
+
+@media (min-width:1024px){
+    .lead__caption {
+        margin-left: 52px;
+        margin-right: 818px;
+    }
+}
+
+@media (min-width: 1280px){
+    .lead__caption {
+        width: 158px;
+        height: 14.08px;
+        margin-top: 8.05px;
+        margin-left: 148px;
+        margin-right: 974px;
+    }
+}
+
+
